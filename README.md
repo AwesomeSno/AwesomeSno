@@ -22,7 +22,7 @@ Hi, I’m **Harinandan**, a tech enthusiast with a passion for innovation and de
 2. **Custom Linux Distribution**: Creating a lightweight, optimized Linux distribution specifically for game developers with all free and open-source tools.
 
 ## Goals
-I aim to build a **partnership company called Xtendz** to help developers improve their skills and projects for free. I’m always on the lookout for collaborators and donations to further support this mission.
+I aim to build a **company called Xtendz** to help developers improve their skills and projects. I’m always on the lookout for collaborators and donations to further support this mission.
 
 ## Get in Touch
 If you have any questions, want to collaborate, or need more details about my projects, feel free to reach out to me.
