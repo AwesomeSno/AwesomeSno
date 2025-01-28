@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I’m **Harinandan**, a tech enthusiast with a passion for innovation and development. At 16 years old, I’m working on a variety of cutting-edge projects that focus on game development, custom operating systems, robotics, and accessibility technology. From creating a robotic arm and 2D games to building a Linux-based OS and smart goggles for the blind, I strive to push the boundaries of what’s possible.
+Hi, I’m **Harinandan J V**, a tech enthusiast with a passion for innovation and development. At 16 years old, I’m working on a variety of cutting-edge projects that focus on game development, custom operating systems, robotics, and accessibility technology. From creating a robotic arm and 2D games to building a Linux-based OS and smart goggles for the blind, I strive to push the boundaries of what’s possible.
 
 ### My Key Projects:
 - **2D Games**: Developed engaging platformer games using Unity, focusing on fun themes like snow, desert, and more. I aim to create unique and modern game experiences that stand out from the crowd.
