@@ -1,30 +1,33 @@
-# Welcome to Harinandan's GitHub! 👋
+# 👋 Hello, I'm Harinandan J V
 
-## About Me
+Welcome to my GitHub! I'm a passionate technologist, builder, and visionary from Kerala, India. I specialize in crafting impactful tech solutions — from operating systems and AI research tools to robotics and home automation systems. I believe in learning by building and using technology to solve real-world problems.
 
-Hi, I’m **Harinandan J V**, a tech enthusiast with a passion for innovation and development. At 16 years old, I’m working on a variety of cutting-edge projects that focus on game development, custom operating systems, robotics, and accessibility technology. From creating a robotic arm and 2D games to building a Linux-based OS and smart goggles for the blind, I strive to push the boundaries of what’s possible.
+## 🛠️ What I Do
 
-### My Key Projects:
-- **2D Games**: Developed engaging platformer games using Unity, focusing on fun themes like snow, desert, and more. I aim to create unique and modern game experiences that stand out from the crowd.
-- **Robotic Arm with 3D Printed Controller**: Built a robotic arm integrated with a 3D printed controller, utilizing Unreal Engine and Arduino for seamless control and interaction.
-- **Custom Linux OS**: Developed a Linux-based OS capable of running Android, Windows, and Linux apps, now working on a game development-optimized Linux distro free of tracking elements.
-- **Accessibility Tech for the Blind**: Currently working on goggles that communicate with the brain to provide visual images through a camera without surgery.
+- ⚙️ Building **ObscuraOS** – a custom operating system focused on privacy and encryption  
+- 🔐 Creating **ZeroVault** – an encrypted local notes app for privacy lovers  
+- 🧠 Developing **Obscura Engine** – an underground research AI that scours the deep corners of the web  
+- 🏠 Engineering a full-fledged **Home Automation & Security System** powered by ESP32  
+- 🤖 Prototyped a **robotic arm** with Arduino & 3D printed design + custom controller in Unreal Engine  
+- 💡 Founder of **Xtendz** – a platform to enable hands-on project-based learning
 
-## Technologies I Work With:
-- **Game Development**: Unity, Unreal Engine, C#
-- **Operating Systems**: Ubuntu, XFCE, Linux Optimization
-- **Programming Languages**: C#, Python, Arduino
-- **Computer Vision**: OpenCV, Jupyter
-- **Hardware**: Arduino, 3D Printing
+## 💡 My Vision
 
-## Ongoing Projects:
-1. **Smart Goggles for the Blind**: Innovating a way to use cameras and brain interfaces to allow the blind to visualize the world around them.
-2. **Custom Linux Distribution**: Creating a lightweight, optimized Linux distribution specifically for game developers with all free and open-source tools.
+I aim to challenge the limits of traditional systems, whether it's through designing a secure OS from scratch, automating my entire house, or reshaping how we learn technology. I believe in **open knowledge**, **bold experiments**, and **accessible innovation**.
 
-## Goals
-I aim to build a **company called Xtendz** to help developers improve their skills and projects. I’m always on the lookout for collaborators and donations to further support this mission.
+## 🚀 Skills
 
-## Get in Touch
-If you have any questions, want to collaborate, or need more details about my projects, feel free to reach out to me.
+- **Languages:** Python, C, C++, Bash, HTML/CSS, C#
+- **Platforms:** Linux, Windows, Custom OS Development
+- **Frameworks & Tools:** OpenCV, Unreal Engine, Unity, Tkinter, Git, ESP32, Arduino
+- **Other Areas:** Computer Vision, Automation, Embedded Systems, Cybersecurity, Ethical Hacking
 
-**Let's innovate together!** ✨
+## 🌐 Connect With Me
+
+- 🧠 [LinkedIn](https://in.linkedin.com/in/snox)  
+- 📷 [Instagram](https://instagram.com/snozuuz)  
+- ✉️ harinandanjv@gmail.com  
+
+---
+
+Thanks for stopping by. Let’s build something amazing together! 🚀
