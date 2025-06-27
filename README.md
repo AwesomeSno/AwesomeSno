@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate technologist, builder, and visionary from
 - 🧠 Developing **Obscura Engine** – an underground research AI that scours the deep corners of the web  
 - 🏠 Engineering a full-fledged **Home Automation & Security System** powered by ESP32  
 - 🤖 Prototyped a **robotic arm** with Arduino & 3D printed design + custom controller in Unreal Engine  
-- 💡 Founder of **Xtendz** – a platform to enable hands-on project-based learning
+- 💡 Founder of **The Shadow Company** – a platform to enable hands-on project-based learning
 
 ## 💡 My Vision
 
