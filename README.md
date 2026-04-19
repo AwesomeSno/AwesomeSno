@@ -1,201 +1,235 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harinandan%20J%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technologist%20%7C%20Builder%20%7C%20Visionary&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+ObscuraOS+from+scratch+%F0%9F%96%A5%EF%B8%8F;Crafting+AI+research+tools+%F0%9F%A7%A0;Engineering+robotics+%26+automation+%F0%9F%A4%96;Securing+the+digital+world+%F0%9F%94%90;Open+knowledge+%7C+Bold+experiments+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AwesomeSno&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AwesomeSno?label=Followers&style=flat-square&color=7c3aed" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-7c3aed?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-7c3aed?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```python
-class Harinandan:
-    name       = "Harinandan J V"
-    location   = "Kerala, India"
-    dob        = "14 April 2008"
-    website    = "https://harinandan.in"
-
-    current_focus = [
-        "Building ObscuraOS — a privacy-first OS from scratch",
-        "Developing Obscura Engine — underground AI research tool",
-        "Creating ZeroVault — encrypted local notes app",
-        "Engineering a full ESP32-powered Home Automation system",
-    ]
-
-    philosophy = "Learn by building. Build to impact."
+```bash
+$ cat harinandan.profile
+# -----------------------------------------------
+# name    : harinandan j v
+# alias   : awesomesno
+# age     : 18
+# loc     : kerala, india
+# orgs    : axeomlabs  |  the shadow company
+# url     : harinandan.in
+# status  : debugging 6 impossible projects at 2am
+# -----------------------------------------------
+# recent activity:
+#   wrote a bootloader         [done]
+#   built an x64 cpu emulator  [done]
+#   started a game engine      [in progress, send help]
+#   automated my house         [done, it works, mostly]
+#   built a physics simulator  [objects make sounds now. yes on purpose]
+#   writing an OS from scratch [you read that right]
+# -----------------------------------------------
+$
 ```
 
-I'm a self-driven technologist from Kerala, India who believes in **open knowledge**, **bold experiments**, and **accessible innovation**. I build everything from operating systems and AI research tools to robotic arms and smart home systems — because the best way to learn technology is to push its limits.
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3500&pause=99999&color=39FF14&center=true&vCenter=true&repeat=false&width=500&lines=hi.+i'm+harinandan." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=99999&color=39FF14&center=true&vCenter=true&repeat=false&width=828&lines=I%27m+18+year+old+from+Kerala+who+thought+%22building+an+OS+from+scratch%22+was+a+reasonable+thing+to+do" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/age-18-39FF14?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/location-kerala%2C_india-39FF14?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/sleep_schedule-what's_that%3F-ff4444?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/status-building_too_many_things-39FF14?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://komarev.com/ghpvc/?username=AwesomeSno&label=people+who+ended+up+here&color=39FF14&style=flat-square&labelColor=0d0d0d" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ok so here's the deal
+
+i'm self-taught. no cs degree, no bootcamp, no roadmap. i just started building things that seemed too hard and kept going until they weren't.
+
+i write operating systems from bare metal, binary translators for x64 executables, game engines from scratch, physics simulators, smart home firmware, and apparently also robotic arms that respond to hand gestures. not for work. just because i want to understand how everything works at the lowest possible level. if i can't build it from scratch, i don't feel like i really understand it.
+
+i run **AxeomLabs** (proprietary systems, research-grade software) and **The Shadow Company** (a tech collective for people who actually build things). both are real. both are active. both have more going on than is public right now.
+
+---
+
+## what i'm actually building rn
+
+> not "what i'm interested in." what i am literally working on right now.
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🖥️ ObscuraOS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Proprietary%20OS-7c3aed?style=flat-square" />
-      </p>
-      <p>A custom operating system built entirely from scratch — no existing OS base. Focused on <strong>privacy</strong>, <strong>encryption</strong>, and secure local computing. Designed to be fully self-contained with built-in development tools.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Obscura Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-AI%20Research%20Tool-7c3aed?style=flat-square" />
-      </p>
-      <p>An AI-powered research engine that scours developer platforms, forums, and open-source knowledge bases. Aggregates deep technical information using intelligent search and knowledge indexing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 ZeroVault</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Privacy%20App-7c3aed?style=flat-square" />
-      </p>
-      <p>An encrypted local notes application for privacy-conscious users. All data stays on-device with strong encryption — no cloud, no servers, no tracking.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏠 Home Automation & Security</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Prototyped-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Embedded%20System-7c3aed?style=flat-square" />
-      </p>
-      <p>A full-featured smart home system powered by <strong>ESP32</strong> — controls lighting, security, and environmental monitoring across the entire house with custom firmware.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Robotic Arm</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Prototyped-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Robotics-7c3aed?style=flat-square" />
-      </p>
-      <p>A 3D-printed robotic arm controlled via <strong>Arduino</strong>, with a custom controller interface built in <strong>Unreal Engine</strong> and a <strong>computer vision</strong> hand gesture system powered by OpenCV.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💡 The Shadow Company</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Tech%20Initiative-7c3aed?style=flat-square" />
-      </p>
-      <p>A technology initiative focused on hands-on project-based learning and collaborative innovation — spanning OS development, AI tools, game development, and digital media production.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ BlackWater OS
+`C` `Assembly` `bare metal` `in dev`
+
+an operating system built from bare metal. no linux base, no borrowed kernel, no shortcuts. custom bootloader, memory manager, scheduler, the whole thing. the goal is an OS where privacy isn't a setting you toggle, it's just how the system works by design.
+
+yes i know how that sounds. yes i'm still doing it.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Project Engine
+`C++20/23` `AxeomLabs` `proprietary`
+
+a unified game engine AND scientific simulation platform in one codebase. seven major subsystems. targets nine platforms including consoles. one of those subsystems is a biomechanics engine with actual Hill-type muscle models and injury simulation. yeah.
+
+this one's going to take a while but i'm not cutting corners on any of it.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪟 ProWin
+`C++` `Swift` `open source` `v0.15.0`
+
+loads and runs Windows x64 PE32+ binaries directly on macOS. no VM, no Wine. i wrote the dynamic binary translator myself. translates DirectX to Metal, XAudio2 to AVFoundation, XInput to GameController in real time.
+
+currently handles simple binaries correctly. DirectX pipeline is next. long road but it works.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Zero Invasion
+`C++20` `pre-alpha`
+
+real-time 2D/3D physics simulation platform. rigid bodies, soft bodies, joints, materials, wind, gravity. the part nobody else does: every object emits sound based on its material, velocity, and collision force. physics-driven audio synthesis. in real time.
+
+runs natively on Metal, Vulkan, and OpenGL.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 ZeroVault
+`privacy app` `in dev`
+
+encrypted notes app. no cloud, no sync, no accounts, no telemetry, nothing leaves your device. ever. made it because i wanted a notes app that actually means it when it says local-only and not "local unless we decide otherwise."
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 ESP32 Home System
+`ESP32` `custom firmware` `prototyped`
+
+whole-house automation running entirely on firmware i wrote. lighting, security, environmental monitoring, access control. no SmartThings, no Alexa, no subscription, no cloud. just hardware i wired and code i wrote.
+
+</td>
+</tr>
 </table>
 
----
+<details>
+<summary><b>there's one more (click if you're curious)</b></summary>
 
-## 🛠️ Tech Stack & Tools
+<br>
 
-**Languages**
+### 🤖 Robotic Arm
+`Arduino` `OpenCV` `Unreal Engine` `prototyped`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+3D-printed robotic arm with two control modes. first: a custom controller UI built inside Unreal Engine. second: real-time hand gesture recognition using OpenCV where the arm mirrors what my hand does.
 
-**Platforms & OS**
+the second one is cooler. obviously.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**Frameworks & Tools**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Domains**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-7c3aed?style=for-the-badge&logo=probot&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
+<br>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## the honest checklist
+
+```
+DONE:
+[x]  written a bootloader in assembly
+[x]  built a working x64 cpu emulator from scratch
+[x]  designed a 7-module cross-platform game engine architecture
+[x]  automated an entire house with custom ESP32 firmware
+[x]  made a robotic arm respond to hand gestures via computer vision
+[x]  built a physics sim where objects generate sound from their material
+[x]  shipped an encrypted notes app with zero external dependencies
+[x]  started a proprietary software lab  (AxeomLabs)
+[x]  started a tech collective           (The Shadow Company)
+
+STILL COOKING:
+[ ]  BlackWater OS first boot                 // getting there
+[ ]  Project Engine running a game            // it's a marathon
+[ ]  ProWin running a full DirectX title      // making real progress
+[ ]  Zero Invasion v1.0 public release        // steady
+[ ]  sleep a normal amount                    // not looking good honestly
+```
+
+---
+
+## stuff i know
+
+```
+languages    C  |  C++  |  C#  |  Assembly  |  Python  |  Swift  |  Bash  |  HTML/CSS
+
+gpu apis     Metal  |  Vulkan  |  OpenGL  |  DirectX 12
+
+tools        CMake  |  Ninja  |  Xcode  |  Make  |  Git
+
+frameworks   OpenCV  |  Unreal Engine  |  Unity  |  SwiftUI  |  Dear ImGui  |  JoltPhysics
+
+hardware     Arduino  |  ESP32  |  3D printing
+
+domains      OS development       |  binary emulation       |  systems programming
+             computer vision      |  embedded systems       |  game engine architecture
+             cybersecurity        |  robotics               |  physics simulation
+             AI + ML              |  real-time audio        |  networking
+```
+
+---
+
+## proof i exist and actually commit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwesomeSno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Harinandan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeSno&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AwesomeSno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=777777" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeSno&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=777777" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwesomeSno&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&background=0d1117&sideLabels=c9d1d9&dates=c9d1d9" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwesomeSno&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=0d0d0d&sideLabels=ffffff&dates=dddddd&currStreakNum=ffffff&sideNums=ffffff" width="65%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AwesomeSno&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwesomeSno&bg_color=0d0d0d&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=0d0d0d&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## one thing i actually believe
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwesomeSno&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+> *"if you don't understand how it works at the lowest level, you don't really understand it."*
 
----
-
-## 💡 Vision & Philosophy
-
-> *"Technology should be a tool for freedom, not surveillance."*
-
-I aim to challenge the limits of traditional systems — whether that's designing a secure OS from scratch, automating my entire house, or reshaping how we learn technology. I believe in **open knowledge**, **bold experiments**, and making innovation **accessible to everyone**.
+most people wait until they're "ready" to start something hard. i don't think that ever comes. so i just start, go learn what i'm missing, and come back. that's how you end up writing bootloaders at 17 and not thinking it's weird.
 
 ---
 
-## 🌐 Connect With Me
+## find me
 
 <p align="center">
   <a href="https://harinandan.in">
-    <img src="https://img.shields.io/badge/Website-harinandan.in-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/harinandan.in-website-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d0d0d" />
   </a>
   <a href="https://in.linkedin.com/in/snox">
-    <img src="https://img.shields.io/badge/LinkedIn-snox-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/snox-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
   </a>
   <a href="https://instagram.com/snozuuz">
-    <img src="https://img.shields.io/badge/Instagram-snozuuz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/snozuuz-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" />
   </a>
   <a href="mailto:harinandanjv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harinandanjv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/harinandanjv@gmail.com-email-ff4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
-</p>
+<br>
 
 <p align="center">
-  <sub>Thanks for stopping by. Let's build something amazing together 🚀</sub>
+  <sub>if you want to build something genuinely ambitious, you know where to find me.</sub><br><br>
+  <sub>if something here seems impossible for a 18 year old -- that's exactly why i'm doing it.</sub>
 </p>
