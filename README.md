@@ -1,7 +1,7 @@
 ```bash
 $ cat harinandan.profile
 # -----------------------------------------------
-# Name    : Harinandan j v
+# Name    : Harinandan J V
 # Alias   : awesomesno
 # Age     : 18
 # Loc     : Kerala, India
@@ -11,7 +11,7 @@ $ cat harinandan.profile
 # -----------------------------------------------
 # Recent activity:
 #   Wrote a bootloader         [done]
-#   Built an x64 cpu emulator  [done]
+#   Built an x64 CPU emulator  [done]
 #   Started a game engine      [in progress, send help]
 #   Automated my house         [done, it works, mostly]
 #   Built a physics simulator  [objects make sounds now. yes on purpose]
@@ -34,7 +34,7 @@ $
 
 <p align="center">
   <img src="https://img.shields.io/badge/age-18-39FF14?style=flat-square&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/location-kerala%2C_india-39FF14?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/location-Kerala%2C_India-39FF14?style=flat-square&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/sleep_schedule-what's_that%3F-ff4444?style=flat-square&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/status-building_too_many_things-39FF14?style=flat-square&labelColor=0d0d0d" />
   <img src="https://komarev.com/ghpvc/?username=AwesomeSno&label=people+who+ended+up+here&color=39FF14&style=flat-square&labelColor=0d0d0d" />
@@ -42,30 +42,30 @@ $
 
 ---
 
-## ok so here's the deal
+## Ok so here's the deal
 
-i'm self-taught. no cs degree, no bootcamp, no roadmap. i just started building things that seemed too hard and kept going until they weren't.
+I'm self-taught. No cs degree, no bootcamp, no roadmap. I just started building things that seemed too hard and kept going until they weren't.
 
-i write operating systems from bare metal, binary translators for x64 executables, game engines from scratch, physics simulators, smart home firmware, and apparently also robotic arms that respond to hand gestures. not for work. just because i want to understand how everything works at the lowest possible level. if i can't build it from scratch, i don't feel like i really understand it.
+I write operating systems from bare metal, binary translators for x64 executables, game engines from scratch, physics simulators, smart home automation systems, and apparently also robotic arms that respond to hand gestures. Not for work. Just because I want to understand how everything works at the lowest possible level. If I can't build it from scratch, I don't feel like I really understand it.
 
-i run **AxeomLabs** (proprietary systems, research-grade software) and **The Shadow Company** (a tech collective for people who actually build things). both are real. both are active. both have more going on than is public right now.
+I run **AxeomLabs** (proprietary systems, research-grade software) and **The Shadow Company** (a tech collective for people who actually build things). Both are real. Both are active. Both have more going on than is public right now.
 
 ---
 
-## what i'm actually building rn
+## What I'm actually building rn
 
-> not "what i'm interested in." what i am literally working on right now.
+> Not "what I'm interested in." What I am literally working on right now.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ BlackWater OS
+### 🖥️ Untitled OS
 `C` `Assembly` `bare metal` `in dev`
 
-an operating system built from bare metal. no linux base, no borrowed kernel, no shortcuts. custom bootloader, memory manager, scheduler, the whole thing. the goal is an OS where privacy isn't a setting you toggle, it's just how the system works by design.
+An operating system built from bare metal. No Linux base, no borrowed kernel, no shortcuts. Custom bootloader, memory manager, scheduler, the whole thing. The goal is an OS where privacy isn't a setting you toggle, it's just how the system works by design.
 
-yes i know how that sounds. yes i'm still doing it.
+Yes I know how that sounds. Yes I'm still doing it. (No name yet. It'll get one when it deserves one.)
 
 </td>
 <td width="50%" valign="top">
@@ -73,9 +73,9 @@ yes i know how that sounds. yes i'm still doing it.
 ### 🎮 Project Engine
 `C++20/23` `AxeomLabs` `proprietary`
 
-a unified game engine AND scientific simulation platform in one codebase. seven major subsystems. targets nine platforms including consoles. one of those subsystems is a biomechanics engine with actual Hill-type muscle models and injury simulation. yeah.
+A unified game engine AND scientific simulation platform in one codebase. Seven major subsystems. Targets nine platforms including consoles. One of those subsystems is a biomechanics engine with actual Hill-type muscle models and injury simulation. Yeah. I'm also pulling in parts of Godot for faster development on certain areas so I don't burn time reinventing things that are already solid. The core architecture is still mine.
 
-this one's going to take a while but i'm not cutting corners on any of it.
+This one's going to take a while but I'm not cutting corners on any of it.
 
 </td>
 </tr>
@@ -85,9 +85,9 @@ this one's going to take a while but i'm not cutting corners on any of it.
 ### 🪟 ProWin
 `C++` `Swift` `open source` `v0.15.0`
 
-loads and runs Windows x64 PE32+ binaries directly on macOS. no VM, no Wine. i wrote the dynamic binary translator myself. translates DirectX to Metal, XAudio2 to AVFoundation, XInput to GameController in real time.
+Loads and runs Windows x64 PE32+ binaries directly on macOS. No VM. I wrote the dynamic binary translator myself. Translates DirectX to Metal, XAudio2 to AVFoundation, XInput to GameController in real time.
 
-currently handles simple binaries correctly. DirectX pipeline is next. long road but it works.
+Currently handles simple binaries correctly. DirectX pipeline is next. I'm also thinking about pulling in parts of Wine for some of the compatibility layer work, though that's not a final decision yet. Long road but it works.
 
 </td>
 <td width="50%" valign="top">
@@ -95,9 +95,9 @@ currently handles simple binaries correctly. DirectX pipeline is next. long road
 ### ⚡ Zero Invasion
 `C++20` `pre-alpha`
 
-real-time 2D/3D physics simulation platform. rigid bodies, soft bodies, joints, materials, wind, gravity. the part nobody else does: every object emits sound based on its material, velocity, and collision force. physics-driven audio synthesis. in real time.
+Real-time 2D/3D physics simulation platform. Rigid bodies, soft bodies, joints, materials, wind, gravity. The part nobody else does: every object emits sound based on its material, velocity, and collision force. Physics-driven audio synthesis. In real time.
 
-runs natively on Metal, Vulkan, and OpenGL.
+Runs natively on Metal, Vulkan, and OpenGL. There's a chance this gets absorbed into Project Engine as a subsystem down the line. Nothing decided yet.
 
 </td>
 </tr>
@@ -107,31 +107,31 @@ runs natively on Metal, Vulkan, and OpenGL.
 ### 🔐 ZeroVault
 `privacy app` `in dev`
 
-encrypted notes app. no cloud, no sync, no accounts, no telemetry, nothing leaves your device. ever. made it because i wanted a notes app that actually means it when it says local-only and not "local unless we decide otherwise."
+Encrypted notes app. No cloud, no sync, no accounts, no telemetry, nothing leaves your device. Ever. Made it because I wanted a notes app that actually means it when it says local-only and not "local unless we decide otherwise."
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 ESP32 Home System
-`ESP32` `custom firmware` `prototyped`
+### 🏠 Home Automation System
+`ESP32` `prototyped`
 
-whole-house automation running entirely on firmware i wrote. lighting, security, environmental monitoring, access control. no SmartThings, no Alexa, no subscription, no cloud. just hardware i wired and code i wrote.
+Whole-house automation with lighting, security, environmental monitoring, and access control. No SmartThings, no Alexa, no subscription, no cloud. Just hardware I wired and code I wrote.
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>there's one more (click if you're curious)</b></summary>
+<summary><b>There's one more (click if you're curious)</b></summary>
 
 <br>
 
 ### 🤖 Robotic Arm
-`Arduino` `OpenCV` `Unreal Engine` `prototyped`
+`Arduino` `OpenCV` `prototyped`
 
-3D-printed robotic arm with two control modes. first: a custom controller UI built inside Unreal Engine. second: real-time hand gesture recognition using OpenCV where the arm mirrors what my hand does.
+3D-printed robotic arm that mirrors my hand in real time using OpenCV-based hand gesture recognition. Working on a custom controller UI separately but that's on hold for now, got bigger things going on.
 
-the second one is cooler. obviously.
+The gesture control is the cool part anyway.
 
 <br>
 </details>
@@ -143,9 +143,9 @@ the second one is cooler. obviously.
 ```
 DONE:
 [x]  written a bootloader in assembly
-[x]  built a working x64 cpu emulator from scratch
+[x]  built a working x64 CPU emulator from scratch
 [x]  designed a 7-module cross-platform game engine architecture
-[x]  automated an entire house with custom ESP32 firmware
+[x]  automated an entire house with custom ESP32 code
 [x]  made a robotic arm respond to hand gestures via computer vision
 [x]  built a physics sim where objects generate sound from their material
 [x]  shipped an encrypted notes app with zero external dependencies
@@ -153,7 +153,7 @@ DONE:
 [x]  started a tech collective           (The Shadow Company)
 
 STILL COOKING:
-[ ]  BlackWater OS first boot                 // getting there
+[ ]  Untitled OS first boot                   // getting there
 [ ]  Project Engine running a game            // it's a marathon
 [ ]  ProWin running a full DirectX title      // making real progress
 [ ]  Zero Invasion v1.0 public release        // steady
@@ -162,7 +162,7 @@ STILL COOKING:
 
 ---
 
-## stuff i know
+## Stuff I know
 
 ```
 languages    C  |  C++  |  C#  |  Assembly  |  Python  |  Swift  |  Bash  |  HTML/CSS
@@ -183,7 +183,7 @@ domains      OS development       |  binary emulation       |  systems programmi
 
 ---
 
-## proof i exist and actually commit
+## Proof I exist and actually commit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AwesomeSno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=777777" width="49%" />
@@ -200,11 +200,11 @@ domains      OS development       |  binary emulation       |  systems programmi
 
 ---
 
-## one thing i actually believe
+## One thing I actually believe
 
-> *"if you don't understand how it works at the lowest level, you don't really understand it."*
+> *"If you don't understand how it works at the lowest level, you don't really understand it."*
 
-most people wait until they're "ready" to start something hard. i don't think that ever comes. so i just start, go learn what i'm missing, and come back. that's how you end up writing bootloaders at 17 and not thinking it's weird.
+Most people wait until they're "ready" to start something hard. I don't think that ever comes. So I just start, go learn what I'm missing, and come back. That's how you end up writing bootloaders at 17 and not thinking it's weird.
 
 ---
 
@@ -230,6 +230,6 @@ most people wait until they're "ready" to start something hard. i don't think th
 <br>
 
 <p align="center">
-  <sub>if you want to build something genuinely ambitious, you know where to find me.</sub><br><br>
-  <sub>if something here seems impossible for a 18 year old -- that's exactly why i'm doing it.</sub>
+  <sub>If you want to build something genuinely ambitious, you know where to find me.</sub><br><br>
+  <sub>If something here seems impossible for a 18 year old -- that's exactly why I'm doing it.</sub>
 </p>
