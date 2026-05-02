@@ -1,21 +1,21 @@
 ```bash
 $ cat harinandan.profile
 # -----------------------------------------------
-# name    : harinandan j v
-# alias   : awesomesno
-# age     : 18
-# loc     : kerala, india
-# orgs    : axeomlabs  |  the shadow company
-# url     : harinandan.in
-# status  : debugging 6 impossible projects at 2am
+# Name    : Harinandan j v
+# Alias   : awesomesno
+# Age     : 18
+# Loc     : Kerala, India
+# Orgs    : AxeomLabs  |  The Shadow Company
+# URL     : harinandan.in
+# Status  : Debugging 6 impossible projects at 2am
 # -----------------------------------------------
-# recent activity:
-#   wrote a bootloader         [done]
-#   built an x64 cpu emulator  [done]
-#   started a game engine      [in progress, send help]
-#   automated my house         [done, it works, mostly]
-#   built a physics simulator  [objects make sounds now. yes on purpose]
-#   writing an OS from scratch [you read that right]
+# Recent activity:
+#   Wrote a bootloader         [done]
+#   Built an x64 cpu emulator  [done]
+#   Started a game engine      [in progress, send help]
+#   Automated my house         [done, it works, mostly]
+#   Built a physics simulator  [objects make sounds now. yes on purpose]
+#   Writing an OS from scratch [you read that right]
 # -----------------------------------------------
 $
 ```
