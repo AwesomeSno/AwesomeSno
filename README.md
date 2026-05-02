@@ -11,7 +11,7 @@ $ cat harinandan.profile
 # -----------------------------------------------
 # Recent activity:
 #   Wrote a bootloader         [done]
-#   Built an x64 cpu emulator  [done]
+#   Built an x64 CPU emulator  [done]
 #   Started a game engine      [in progress, send help]
 #   Automated my house         [done, it works, mostly]
 #   Built a physics simulator  [objects make sounds now. yes on purpose]
@@ -46,7 +46,7 @@ $
 
 i'm self-taught. no cs degree, no bootcamp, no roadmap. i just started building things that seemed too hard and kept going until they weren't.
 
-i write operating systems from bare metal, binary translators for x64 executables, game engines from scratch, physics simulators, smart home firmware, and apparently also robotic arms that respond to hand gestures. not for work. just because i want to understand how everything works at the lowest possible level. if i can't build it from scratch, i don't feel like i really understand it.
+i write operating systems from bare metal, binary translators for x64 executables, game engines from scratch, physics simulators, smart home automation systems, and apparently also robotic arms that respond to hand gestures. not for work. just because i want to understand how everything works at the lowest possible level. if i can't build it from scratch, i don't feel like i really understand it.
 
 i run **AxeomLabs** (proprietary systems, research-grade software) and **The Shadow Company** (a tech collective for people who actually build things). both are real. both are active. both have more going on than is public right now.
 
@@ -60,12 +60,12 @@ i run **AxeomLabs** (proprietary systems, research-grade software) and **The Sha
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ BlackWater OS
+### 🖥️ Untitled OS
 `C` `Assembly` `bare metal` `in dev`
 
-an operating system built from bare metal. no linux base, no borrowed kernel, no shortcuts. custom bootloader, memory manager, scheduler, the whole thing. the goal is an OS where privacy isn't a setting you toggle, it's just how the system works by design.
+an operating system built from bare metal. no Linux base, no borrowed kernel, no shortcuts. custom bootloader, memory manager, scheduler, the whole thing. the goal is an OS where privacy isn't a setting you toggle, it's just how the system works by design.
 
-yes i know how that sounds. yes i'm still doing it.
+yes i know how that sounds. yes i'm still doing it. (no name yet. it'll get one when it deserves one.)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ yes i know how that sounds. yes i'm still doing it.
 ### 🎮 Project Engine
 `C++20/23` `AxeomLabs` `proprietary`
 
-a unified game engine AND scientific simulation platform in one codebase. seven major subsystems. targets nine platforms including consoles. one of those subsystems is a biomechanics engine with actual Hill-type muscle models and injury simulation. yeah.
+a unified game engine AND scientific simulation platform in one codebase. seven major subsystems. targets nine platforms including consoles. one of those subsystems is a biomechanics engine with actual Hill-type muscle models and injury simulation. yeah. i'm also pulling in parts of Godot for faster development on certain areas so i don't burn time reinventing things that are already solid. the core architecture is still mine.
 
 this one's going to take a while but i'm not cutting corners on any of it.
 
@@ -85,9 +85,9 @@ this one's going to take a while but i'm not cutting corners on any of it.
 ### 🪟 ProWin
 `C++` `Swift` `open source` `v0.15.0`
 
-loads and runs Windows x64 PE32+ binaries directly on macOS. no VM, no Wine. i wrote the dynamic binary translator myself. translates DirectX to Metal, XAudio2 to AVFoundation, XInput to GameController in real time.
+loads and runs Windows x64 PE32+ binaries directly on macOS. no VM. i wrote the dynamic binary translator myself. translates DirectX to Metal, XAudio2 to AVFoundation, XInput to GameController in real time.
 
-currently handles simple binaries correctly. DirectX pipeline is next. long road but it works.
+currently handles simple binaries correctly. DirectX pipeline is next. i'm also thinking about pulling in parts of Wine for some of the compatibility layer work, though that's not a final decision yet. long road but it works.
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ currently handles simple binaries correctly. DirectX pipeline is next. long road
 
 real-time 2D/3D physics simulation platform. rigid bodies, soft bodies, joints, materials, wind, gravity. the part nobody else does: every object emits sound based on its material, velocity, and collision force. physics-driven audio synthesis. in real time.
 
-runs natively on Metal, Vulkan, and OpenGL.
+runs natively on Metal, Vulkan, and OpenGL. there's a chance this gets absorbed into Project Engine as a subsystem down the line. nothing decided yet.
 
 </td>
 </tr>
@@ -112,10 +112,10 @@ encrypted notes app. no cloud, no sync, no accounts, no telemetry, nothing leave
 </td>
 <td width="50%" valign="top">
 
-### 🏠 ESP32 Home System
-`ESP32` `custom firmware` `prototyped`
+### 🏠 Home Automation System
+`ESP32` `prototyped`
 
-whole-house automation running entirely on firmware i wrote. lighting, security, environmental monitoring, access control. no SmartThings, no Alexa, no subscription, no cloud. just hardware i wired and code i wrote.
+whole-house automation with lighting, security, environmental monitoring, and access control. no SmartThings, no Alexa, no subscription, no cloud. just hardware i wired and code i wrote.
 
 </td>
 </tr>
@@ -127,11 +127,11 @@ whole-house automation running entirely on firmware i wrote. lighting, security,
 <br>
 
 ### 🤖 Robotic Arm
-`Arduino` `OpenCV` `Unreal Engine` `prototyped`
+`Arduino` `OpenCV` `prototyped`
 
-3D-printed robotic arm with two control modes. first: a custom controller UI built inside Unreal Engine. second: real-time hand gesture recognition using OpenCV where the arm mirrors what my hand does.
+3D-printed robotic arm that mirrors my hand in real time using OpenCV-based hand gesture recognition. working on a custom controller UI separately but that's on hold for now, got bigger things going on.
 
-the second one is cooler. obviously.
+the gesture control is the cool part anyway.
 
 <br>
 </details>
@@ -143,9 +143,9 @@ the second one is cooler. obviously.
 ```
 DONE:
 [x]  written a bootloader in assembly
-[x]  built a working x64 cpu emulator from scratch
+[x]  built a working x64 CPU emulator from scratch
 [x]  designed a 7-module cross-platform game engine architecture
-[x]  automated an entire house with custom ESP32 firmware
+[x]  automated an entire house with custom ESP32 code
 [x]  made a robotic arm respond to hand gestures via computer vision
 [x]  built a physics sim where objects generate sound from their material
 [x]  shipped an encrypted notes app with zero external dependencies
@@ -153,7 +153,7 @@ DONE:
 [x]  started a tech collective           (The Shadow Company)
 
 STILL COOKING:
-[ ]  BlackWater OS first boot                 // getting there
+[ ]  Untitled OS first boot                   // getting there
 [ ]  Project Engine running a game            // it's a marathon
 [ ]  ProWin running a full DirectX title      // making real progress
 [ ]  Zero Invasion v1.0 public release        // steady
