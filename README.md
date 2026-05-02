@@ -1,7 +1,7 @@
 ```bash
 $ cat harinandan.profile
 # -----------------------------------------------
-# Name    : Harinandan j v
+# Name    : Harinandan J V
 # Alias   : awesomesno
 # Age     : 18
 # Loc     : Kerala, India
@@ -34,7 +34,7 @@ $
 
 <p align="center">
   <img src="https://img.shields.io/badge/age-18-39FF14?style=flat-square&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/location-kerala%2C_india-39FF14?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/location-Kerala%2C_India-39FF14?style=flat-square&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/sleep_schedule-what's_that%3F-ff4444?style=flat-square&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/status-building_too_many_things-39FF14?style=flat-square&labelColor=0d0d0d" />
   <img src="https://komarev.com/ghpvc/?username=AwesomeSno&label=people+who+ended+up+here&color=39FF14&style=flat-square&labelColor=0d0d0d" />
